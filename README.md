@@ -14,29 +14,14 @@
 
 <h2 align="left">🛠 &nbsp; Technologies & Tools:</h2>
 <p align="left">
-<!--   <a href="https://skillicons.dev">
-
-    <img src="https://skillicons.dev/icons?i=notion&perline=13" title="notion"/>
-    <img src="https://skillicons.dev/icons?i=firebase&perline=13" title="firebase"/>
-    <img src="https://skillicons.dev/icons?i=ai&perline=13" title="ai"/>
-    <img src="https://skillicons.dev/icons?i=ps&perline=13" title="ps"/>
-    <img src="https://skillicons.dev/icons?i=figma&perline=13" title="figma"/>
-    <img src="https://skillicons.dev/icons?i=discord&perline=13" title="discord"/>
-  </a> -->
-    
-- Languages and Tools:\
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-
-- Softwares:
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=notion&perline=13" title="notion"/>
+  <img src="https://skillicons.dev/icons?i=firebase&perline=13" title="firebase"/>
+  <img src="https://skillicons.dev/icons?i=ai&perline=13" title="ai"/>
+  <img src="https://skillicons.dev/icons?i=ps&perline=13" title="ps"/>
+  <img src="https://skillicons.dev/icons?i=figma&perline=13" title="figma"/>
+  <img src="https://skillicons.dev/icons?i=discord&perline=13" title="discord"/>
+</a>
   
 </p>
 
