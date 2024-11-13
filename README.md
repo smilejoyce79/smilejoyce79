@@ -14,15 +14,23 @@
 
 <h2 align="left">🛠 &nbsp; Technologies & Tools:</h2>
 <p align="left">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=notion&perline=13" title="notion"/>
-  <img src="https://skillicons.dev/icons?i=firebase&perline=13" title="firebase"/>
-  <img src="https://skillicons.dev/icons?i=ai&perline=13" title="ai"/>
-  <img src="https://skillicons.dev/icons?i=ps&perline=13" title="ps"/>
-  <img src="https://skillicons.dev/icons?i=figma&perline=13" title="figma"/>
-  <img src="https://skillicons.dev/icons?i=discord&perline=13" title="discord"/>
-</a>
-  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html&perline=13" title="html"/>
+    <img src="https://skillicons.dev/icons?i=css&perline=13" title="css"/>
+    <img src="https://skillicons.dev/icons?i=sass&perline=13" title="sass"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap&perline=13" title="bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=js&perline=13" title="js"/>
+    <img src="https://skillicons.dev/icons?i=react&perline=13" title="react"/>
+    <img src="https://skillicons.dev/icons?i=vscode&perline=13" title="vscode"/>
+    <img src="https://skillicons.dev/icons?i=git&perline=13" title="git"/>
+    <img src="https://skillicons.dev/icons?i=github&perline=13" title="github"/>
+    <img src="https://skillicons.dev/icons?i=notion&perline=13" title="notion"/>
+    <img src="https://skillicons.dev/icons?i=firebase&perline=13" title="firebase"/>
+    <img src="https://skillicons.dev/icons?i=ai&perline=13" title="ai"/>
+    <img src="https://skillicons.dev/icons?i=ps&perline=13" title="ps"/>
+    <img src="https://skillicons.dev/icons?i=figma&perline=13" title="figma"/>
+    <img src="https://skillicons.dev/icons?i=discord&perline=13" title="discord"/>
+  </a>
 </p>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
