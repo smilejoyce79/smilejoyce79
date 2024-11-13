@@ -15,15 +15,7 @@
 <h2 align="left">🛠 &nbsp; Technologies & Tools:</h2>
 <p align="left">
 <!--   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html&perline=13" title="html"/>
-    <img src="https://skillicons.dev/icons?i=css&perline=13" title="css"/>
-    <img src="https://skillicons.dev/icons?i=sass&perline=13" title="sass"/>
-    <img src="https://skillicons.dev/icons?i=bootstrap&perline=13" title="bootstrap"/>
-    <img src="https://skillicons.dev/icons?i=js&perline=13" title="js"/>
-    <img src="https://skillicons.dev/icons?i=react&perline=13" title="react"/>
-    <img src="https://skillicons.dev/icons?i=vscode&perline=13" title="vscode"/>
-    <img src="https://skillicons.dev/icons?i=git&perline=13" title="git"/>
-    <img src="https://skillicons.dev/icons?i=github&perline=13" title="github"/>
+
     <img src="https://skillicons.dev/icons?i=notion&perline=13" title="notion"/>
     <img src="https://skillicons.dev/icons?i=firebase&perline=13" title="firebase"/>
     <img src="https://skillicons.dev/icons?i=ai&perline=13" title="ai"/>
@@ -33,13 +25,17 @@
   </a> -->
     
 - Languages and Tools:\
-  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
+![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+
 - Softwares:
   
 </p>
@@ -49,8 +45,3 @@
   </a>
 </p>
 
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/21une4uo6fmfxkqfixspjhiiy)
-<br/>
----
