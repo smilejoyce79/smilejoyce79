@@ -5,7 +5,7 @@ Goal : 成為一位「設計好用工具、幫助解決問題」的開發者！
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smilejoyce79&label=Profile%20views&color=0e75b6&style=flat" alt="smilejoyce79" /> </p>
 
 - 🌱 I’m currently learning **HTML,CSS,JavaScript,React,Figma,UIUX**
-- 📄 You can check out my experiences on [CakeResume](https://www.cake.me/me/beeverliane) or [LinkedIn](https://linkedin.com/in/beeverliane)
+- 📄 You can check out my experiences on [CakeResume](https://www.cake.me/me/beeverliane)
 - 📫 Reach me at [smilejoyce79@gmail.com](smilejoyce79@gmail.com)
 - ⚡ I'm interested in **Design,Painting,Reading,Writing,Travel,Swimming,Music,Movies...**
 
